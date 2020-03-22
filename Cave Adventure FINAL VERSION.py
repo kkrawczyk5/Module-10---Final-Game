@@ -1,3 +1,12 @@
+#Name: Kamil Krawczyk
+#University: National-Louis University
+#Contact: kkrawczyk@my.nl.edu
+#Course: CSS 225 Winter semester
+#Language: Python3
+#Name of game: Cave Adventure
+#Version: Final version of game
+#Type of game: Text based 
+
 import random
 
 
@@ -135,8 +144,4 @@ def chapter_5():
 
 
 intro_screen(main)
-
-#chapter_2(chapter_1, chapter_3, chapter_4)
-#chapter_3(chapter_2, chapter_4)
-#chapter_4(chapter_5)
 
